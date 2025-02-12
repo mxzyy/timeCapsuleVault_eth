@@ -1,6 +1,6 @@
-# Sample Hardhat Project
+# Time Capsule Vault Project
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a Hardhat Ignition module that deploys that contract.
+This project demonstrates a basic Hardhat use case. It lock ETH in the Contract with the duration, after the duration end, ETH will be send back to you. (Useless honestly)
 
 Try running some of the following tasks:
 
